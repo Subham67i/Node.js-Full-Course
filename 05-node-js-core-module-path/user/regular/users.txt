@@ -1,0 +1,7 @@
+Node.js me "path" ek core module hai
+ jo file paths ke saath kaam karta hai.
+Iska mukhya uddeshya platform-independent 
+file paths
+ banane aur manipulate karne ka hai,
+jisse aapke code ko alag-alag operating systems par bhi
+ chalaya ja sake.
