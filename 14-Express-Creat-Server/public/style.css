@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: rgb(135, 230, 111) ;
+}
+h3{
+    font-size: 35px;
+    color: rgb(3, 63, 11);
+}
+p{
+    font-size: 25px;
+    color: white;
+}
